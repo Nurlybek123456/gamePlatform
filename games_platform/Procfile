@@ -1,1 +1,1 @@
-
+worker: python myp3.py
